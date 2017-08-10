@@ -79,7 +79,7 @@ var routes = {
     locals: {
       title: 'Referrals | Shine',
       layout: 'layouts/subpageCustomHeader.layout',
-      headerImage: 'images/refer-header.gif',
+      headerImage: '/images/refer-header.gif',
       headerText: 'Shine with friends!',
     },
   },
